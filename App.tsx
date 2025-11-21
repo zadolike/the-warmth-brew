@@ -82,7 +82,7 @@ const App: React.FC = () => {
 
           <div className="hidden lg:block pt-8 border-t border-gray-300">
              <p className="text-xs text-gray-500 uppercase tracking-widest font-semibold">
-               由 不知名先生 驱动的 AI 咖啡师
+               由不知名先生驱动的ai心情咖啡师
              </p>
           </div>
         </div>
