@@ -42,7 +42,8 @@ const App: React.FC = () => {
               <span className="text-sb-green">更是一份温暖心意</span>
             </h2>
             <p className="text-lg text-gray-600 max-w-md leading-relaxed">
-              在这个快节奏的世界里，我们想为<span className="font-bold text-sb-dark">谦老师</span>萃取一份专属的鼓励。请选择今日的特调心情，让我们开始制作。
+              为正在职场中努力奔跑的<span className="font-bold text-sb-dark">谦老师</span>定制。
+              累了就停下来喝一杯，愿这份专属特调能化作你前行路上的点点星光。
             </p>
           </div>
 
@@ -82,7 +83,7 @@ const App: React.FC = () => {
 
           <div className="hidden lg:block pt-8 border-t border-gray-300">
              <p className="text-xs text-gray-500 uppercase tracking-widest font-semibold">
-               由不知名先生驱动的ai心情咖啡师
+               由 不知名先生 驱动的 特调 咖啡师
              </p>
           </div>
         </div>
@@ -111,7 +112,7 @@ const App: React.FC = () => {
       
       {/* Mobile Footer */}
       <footer className="lg:hidden p-6 text-center text-xs text-gray-400">
-         Made specifically for Qian Laoshi
+         Made specifically for Qian Laoshi using Gemini 2.5
       </footer>
     </div>
   );

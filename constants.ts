@@ -31,7 +31,7 @@ export const COFFEE_MENU: CoffeeOption[] = [
 ];
 
 export const FALLBACK_MESSAGE: BrewResult = {
-  drinkName: "经典温暖特调",
-  message: "谦老师，愿您的每一天都像这杯咖啡一样，温暖而醇厚。您的付出如星光般照亮他人。",
-  ingredients: ["真诚", "坚持", "温暖的阳光"]
+  drinkName: "星光元气特调",
+  message: "亲爱的谦老师，奋斗的路上辛苦啦！愿这杯咖啡像温暖的拥抱，抚平你所有的疲惫。记得在追逐梦想的同时，也要照顾好那个可爱的自己，你闪闪发光的样子真的很美。",
+  ingredients: ["100%的努力", "不服输的可爱", "璀璨星光"]
 };
