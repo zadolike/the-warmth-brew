@@ -111,7 +111,7 @@ const App: React.FC = () => {
       
       {/* Mobile Footer */}
       <footer className="lg:hidden p-6 text-center text-xs text-gray-400">
-         Made specifically for Qian Laoshi using Gemini 2.5
+         Made specifically for Qian Laoshi
       </footer>
     </div>
   );
